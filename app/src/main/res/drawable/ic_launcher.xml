@@ -1,0 +1,19 @@
+<!-- Escudo dorado sobre fondo carmesí -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#B3202A"
+        android:pathData="M24,2a22,22 0 1,1 0,44a22,22 0 1,1 0,-44z" />
+    <path
+        android:fillColor="#D4A537"
+        android:pathData="M24,9L36,13L36,23C36,31 30.5,36.5 24,39C17.5,36.5 12,31 12,23L12,13Z" />
+    <path
+        android:fillColor="#9C7A22"
+        android:pathData="M24,9L36,13L36,23C36,31 30.5,36.5 24,39Z" />
+    <path
+        android:fillColor="#0E0E10"
+        android:pathData="M20,16L26,16C28.8,16 30.5,17.8 30.5,20.3C30.5,22.8 28.8,24.6 26,24.6L23.2,24.6L23.2,31L20,31ZM23.2,19L23.2,21.7L25.7,21.7C26.7,21.7 27.3,21.1 27.3,20.3C27.3,19.5 26.7,19 25.7,19Z" />
+</vector>
